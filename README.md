@@ -3,7 +3,7 @@
 
 
 
-**Blind Corridor** is an atmospheric top-down 2D maze-runner developed using **Unity 6** and **C#** under the **Universal Render Pipeline (URP 2D)**. Designed with a portrait-first 9:16 aspect ratio ($1080 \times 1920$), the game challenges players to navigate pitch-black corridors where visibility is strictly limited to an attached torchlight source.
+**Blind Corridor** is an atmospheric top-down 2D maze-runner developed using **Unity 6** and **C#** under the **Universal Render Pipeline (URP 2D)**. Designed with a portrait-first 9:16 aspect ratio ($1080 \times 1920$), the game challenges players to navigate pitch-black corridors where visibility is strictly limited to an attached torchlight source .
 
 ---
 
